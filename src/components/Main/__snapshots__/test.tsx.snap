@@ -41,9 +41,7 @@ exports[`<Main /> should render the heading 1`] = `
 
 .c4 {
   margin-top: 3rem;
-  width: -webkit-min-content(30rem,100%);
-  width: -moz-min-content(30rem,100%);
-  width: min-content(30rem,100%);
+  width: min(30rem,100%);
 }
 
 <main
