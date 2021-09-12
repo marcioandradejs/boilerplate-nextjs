@@ -1,3 +1,4 @@
+
 {
   "presets": ["next/babel", "@babel/preset-typescript"],
   "plugins": [
@@ -11,7 +12,7 @@
   ],
   "env": {
     "test": {
-      "plugin": [
+      "plugins": [
         [
           "babel-plugin-styled-components",
           {
