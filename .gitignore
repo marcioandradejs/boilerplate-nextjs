@@ -17,7 +17,6 @@
 
 # misc
 .DS_Store
-*.pem
 
 # debug
 npm-debug.log*
@@ -29,9 +28,6 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
-
-# vercel
-.vercel
 
 # sw stuff
 public/sw.js
