@@ -26,20 +26,17 @@ exports[`<Main /> should render the heading 1`] = `
 }
 
 .c1 {
-  width: 25rem;
+  font-size: 3rem;
   margin-bottom: 2rem;
 }
 
 .c2 {
-  font-size: 2.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  max-width: 60rem;
 }
 
 .c3 {
-  font-size: 2rem;
-  font-weight: 400;
-}
-
-.c4 {
   margin-top: 3rem;
   width: min(30rem,100%);
 }
@@ -47,25 +44,20 @@ exports[`<Main /> should render the heading 1`] = `
 <main
   class="c0"
 >
-  <img
-    alt="Imagem de um átomo e React Avançado escrito ao lado."
-    class="c1"
-    src="/img/logo.svg"
-  />
   <h1
-    class="c2"
+    class="c1"
   >
-    React Avançado
+    Boilerplate create-next-app
   </h1>
   <h2
-    class="c3"
+    class="c2"
   >
-    TypeScript, ReactJS, NextJS e Styled Components
+    TypeScript, NextJS, Styled Components, Jest, React Testing Library, Storybook, Eslint, Prettier and PlopJS Generators
   </h2>
   <img
-    alt="Um desenvolvedor de frente para a tela com códigos "
-    class="c4"
-    src="img/hero-illustration.svg"
+    alt="Um desenvolvedor de frente para uma tela com código."
+    class="c3"
+    src="/img/hero-illustration.svg"
   />
 </main>
 `;
