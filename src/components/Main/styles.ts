@@ -26,6 +26,7 @@ export const Description = styled.h2`
   font-size: 2rem;
   font-weight: 400;
   max-width: 60rem;
+  line-height: 1.4;
 `
 
 export const Illustration = styled.img`

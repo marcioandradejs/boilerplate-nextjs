@@ -14,7 +14,7 @@ function App({ Component, pageProps }: AppProps) {
         <meta name="theme-color" content="#06092b" />
         <meta
           name="description"
-          content="A simple project starter to work with TypeScript, React, NextJS and Styled Components"
+          content="A simple project starter to work with TypeScript, NextJS, Styled Components, Jest, React Testing Library, Storybook, Eslint, Prettier and PlopJS Generators"
         />
       </Head>
       <GlobalStyles />
