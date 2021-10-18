@@ -28,15 +28,15 @@
     "styled-components": "^5.3.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.15.5",
+    "@babel/core": "^7.15.8",
     "@babel/preset-typescript": "^7.15.0",
-    "@storybook/addon-essentials": "^6.3.10",
-    "@storybook/react": "^6.3.10",
+    "@storybook/addon-essentials": "^6.3.12",
+    "@storybook/react": "^6.3.12",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.1.2",
     "@types/jest": "^27.0.2",
     "@types/node": "^16.10.3",
-    "@types/react": "^17.0.27",
+    "@types/react": "^17.0.30",
     "@types/styled-components": "^5.1.15",
     "@typescript-eslint/eslint-plugin": "^4.33.0",
     "@typescript-eslint/parser": "^4.33.0",
@@ -53,6 +53,6 @@
     "plop": "^2.7.4",
     "prettier": "2.4.1",
     "storybook-addon-next-router": "^3.0.8",
-    "typescript": "^4.4.3"
+    "typescript": "^4.4.4"
   }
 }
