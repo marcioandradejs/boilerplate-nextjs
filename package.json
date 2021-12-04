@@ -21,8 +21,8 @@
     ]
   },
   "dependencies": {
-    "next": "12",
-    "next-pwa": "^5.3.1",
+    "next": "12.0.5",
+    "next-pwa": "^5.4.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "styled-components": "^5.3.3"
@@ -31,13 +31,13 @@
     "@babel/core": "^7.15.8",
     "@babel/preset-typescript": "^7.16.0",
     "@storybook/addon-essentials": "^6.3.12",
-    "@storybook/react": "^6.3.12",
+    "@storybook/react": "^6.4.7",
     "@testing-library/jest-dom": "^5.15.1",
     "@testing-library/react": "^12.1.2",
     "@types/jest": "^27.0.3",
-    "@types/node": "^16.11.10",
+    "@types/node": "^16.11.11",
     "@types/react": "^17.0.37",
-    "@types/styled-components": "^5.1.15",
+    "@types/styled-components": "^5.1.16",
     "@typescript-eslint/eslint-plugin": "rc-v5",
     "@typescript-eslint/parser": "rc-v5",
     "babel-loader": "^8.2.3",
