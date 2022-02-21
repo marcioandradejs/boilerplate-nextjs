@@ -41,7 +41,7 @@
     "@typescript-eslint/eslint-plugin": "rc-v5",
     "@typescript-eslint/parser": "rc-v5",
     "babel-loader": "^8.2.3",
-    "babel-plugin-styled-components": "^1.13.3",
+    "babel-plugin-styled-components": "^2.0.3",
     "eslint": "8.0.1",
     "eslint-config-next": "11.1.2",
     "eslint-config-prettier": "^8.4.0",
