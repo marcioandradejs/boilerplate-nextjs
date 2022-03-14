@@ -44,7 +44,7 @@
     "babel-plugin-styled-components": "^1.13.3",
     "eslint": "8.0.1",
     "eslint-config-next": "11.1.2",
-    "eslint-config-prettier": "^8.4.0",
+    "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-react": "^7.29.4",
     "eslint-plugin-react-hooks": "^4.3.0",
