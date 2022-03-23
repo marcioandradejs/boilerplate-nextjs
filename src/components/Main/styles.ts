@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 export const Wrapper = styled.main`
-  background-color: #6c63ff;
+  background-color: #211757;
   color: #f2f2f2;
   width: 100%;
   height: 100%;
@@ -32,4 +32,5 @@ export const Description = styled.h2`
 export const Illustration = styled.img`
   margin-bottom: 5rem;
   width: min(30rem, 100%);
+  height: min(30rem, 100%);
 `
