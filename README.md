@@ -1,3 +1,11 @@
+# Boilerplate NextJS
+
+## How to use this boilerplate?
+
+```bash
+yarn create next-app -e https://github.com/marcioandradejs/boilerplate-nextjs
+```
+
 This is a [Next.js](https://nextjs.org/) boilerplate to be used in your project.
 
 ## What is inside?
