@@ -29,7 +29,7 @@
     "styled-media-query": "^2.1.2"
   },
   "devDependencies": {
-    "@storybook/addon-essentials": "6.4.19",
+    "@storybook/addon-essentials": "6.4.20",
     "@storybook/builder-webpack5": "6.4.19",
     "@storybook/manager-webpack5": "6.4.19",
     "@storybook/react": "6.4.19",
